@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @d2vin
-- 👀 I’m interested in blockchain, NFTs
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -10,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <center>
   <div>
-    Welcome
+    <h1>Welcome<h1>
+    <p>uploading new stuff soon! sorry for the delay.</p>
   </div>
 </center>
