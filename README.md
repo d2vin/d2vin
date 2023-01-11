@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 <center>
   <div>
     <h1>Welcome<h1>
-    <p>uploading new stuff soon! sorry for the delay.</p>
+    <a href="https://productive.vote">Productive.</a>
   </div>
 </center>
