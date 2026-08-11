@@ -1,10 +1,36 @@
 <!---
-d2vin/d2vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<center>
-  <div>
-    <h1>Welcome<h1>
-      <p>Reach me via my site <a href="https://devinminn.com">here</a>.</p>
-  </div>
-</center>
+d2vin/d2vin is a ✨ special ✨ repository because its `README.md`
+appears on your GitHub profile.
+-->
+
+<div align="center">
+
+# 🌐 welcome to my corner of the internet
+
+### ☁️ Devin Minnihan ☁️
+
+**developer · designer · internet enjoyer**
+
+<br>
+
+🌱 building things for the web  
+💿 interested in design + technology  
+🐬 making software a little more fun
+
+<br>
+
+### 🫧 find me online
+
+<a href="https://devinminn.com">
+  <img src="https://img.shields.io/badge/✦_devinminn.com-87CEEB?style=for-the-badge&labelColor=E8F8FF" />
+</a>
+
+<br><br>
+
+`˚₊‧꒰ა 🌎 ໒꒱ ‧₊˚`
+
+**the internet should be fun again**
+
+☀️ 🌊 🐬 🌱 💿 🫧 🌈
+
+</div>
