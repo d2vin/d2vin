@@ -7,7 +7,7 @@ appears on your GitHub profile.
 
 # 🌐 welcome to my corner of the internet
 
-### ☁️ Devin Minnihan ☁️
+### ☁️ d2vin ☁️
 
 **developer · designer · internet enjoyer**
 
